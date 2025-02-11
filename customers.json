@@ -1,0 +1,42 @@
+{
+    "1001": {
+        "password": "DekelVaknin1",
+        "balance": 5000.0
+    },
+    "1002": {
+        "password": "AviBitter456",
+        "balance": 2500.5
+    },
+    "1003": {
+        "password": "password111",
+        "balance": -200.0
+    },
+    "1004": {
+        "password": "hello123",
+        "balance": 15000.75
+    },
+    "1005": {
+        "password": "bank321",
+        "balance": 100.0
+    },
+    "1006": {
+        "password": "rabbi770",
+        "balance": 750.25
+    },
+    "1007": {
+        "password": "secure999",
+        "balance": -500.0
+    },
+    "1008": {
+        "password": "easymoney23",
+        "balance": 2200.0
+    },
+    "1009": {
+        "password": "lukaLebron123",
+        "balance": 0.0
+    },
+    "1010": {
+        "password": "MessiRonaldo710",
+        "balance": 9800.0
+    }
+}
