@@ -1,4 +1,4 @@
-# ATM Console Program 🏦
+# ATM Console Program
 
 ## Overview
 This Python console application simulates an **ATM machine**, allowing customers to perform banking transactions such as:
