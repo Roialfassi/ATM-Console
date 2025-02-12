@@ -1,0 +1,27 @@
+{
+    "1001": {
+        "password_hash": "de754ee2de6924fcb2baa5f8add8a8d80ad41cd434847645ca5dad76c5bf0d56",
+        "salt": "bf6c03b8bbb3a940c37c08ce325df4bb",
+        "balance": 4000.0
+    },
+    "1002": {
+        "password_hash": "319fceb7a0b735e2c5b9946b0e3c093a769f014d0246fb00e2634d5efa36c51e",
+        "salt": "8beb7cd95f7194426610d954e126f8de",
+        "balance": 2500.5
+    },
+    "1003": {
+        "password_hash": "0de5dd738bce95a0d076cdeeb90469dbfa4478c65240e05338338fdb13686f4b",
+        "salt": "8085f1a06fdc5db531336263e96ee4da",
+        "balance": -200.0
+    },
+    "1004": {
+        "password_hash": "27c4333c2d19fc1654ea0d0d6305e45ec5ffda1a95d0c3d6b310baf8bd002901",
+        "salt": "b8ebfffe5e861914ce9aff71ac3f9427",
+        "balance": 15000.75
+    },
+    "1005": {
+        "password_hash": "fdd1bd675a8aa4a9e15a89bc55449083d74315360afed519dee74c838329c1c5",
+        "salt": "ddf1ec9135cc53e1419ec44ca78a490b",
+        "balance": 100.0
+    }
+}
