@@ -8,7 +8,7 @@ This Python console application simulates an **ATM machine**, allowing customers
 - Changing their password
 
 The application securely loads customer data from a file (`customers.json`) and updates it upon exit to maintain changes.
-
+(if you want to try the one with the hashing it is in the folder)
 
 ## Installation & Setup
 ### Prerequisites
